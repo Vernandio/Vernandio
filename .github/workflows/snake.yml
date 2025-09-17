@@ -37,6 +37,9 @@ jobs:
     timeout-minutes: 10
 
 
+    # ✅ Give GitHub token permission to push to branches
+    permissions:
+      contents: write
 
     steps:
 
