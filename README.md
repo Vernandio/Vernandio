@@ -27,6 +27,8 @@
 
 <!-- Snake Animation -->
 <div align="center">
+  
   ![snake gif](https://github.com/Vernandio/Vernandio/blob/output/github-snake-dark.svg)
+  
 </div>
 
